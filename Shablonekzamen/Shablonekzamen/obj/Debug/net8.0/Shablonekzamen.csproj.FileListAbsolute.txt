@@ -1,0 +1,14 @@
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\bin\Debug\net8.0\Shablonekzamen.exe
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\bin\Debug\net8.0\Shablonekzamen.deps.json
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\bin\Debug\net8.0\Shablonekzamen.runtimeconfig.json
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\bin\Debug\net8.0\Shablonekzamen.dll
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\bin\Debug\net8.0\Shablonekzamen.pdb
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.AssemblyInfoInputs.cache
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.AssemblyInfo.cs
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.csproj.CoreCompileInputs.cache
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.dll
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\refint\Shablonekzamen.dll
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.pdb
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\Shablonekzamen.genruntimeconfig.cache
+C:\Users\dmflame\source\repos\Shablonekzamen\Shablonekzamen\obj\Debug\net8.0\ref\Shablonekzamen.dll
